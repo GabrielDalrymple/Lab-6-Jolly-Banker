@@ -1,0 +1,93 @@
+ERROR: Not enough funds to withdraw $20000 from Johnny Cash Growth Index Fund
+Transaction history for Johnny Cash by fund.
+Money Market: $470
+    $542 deposited
+    $72 withdrawn
+Prime Money Market: $3042
+    $1542 deposited
+    $1500 deposited
+Long-Term Bond: $10442
+    $5442 deposited
+    $5000 deposited
+Short-Term Bond: $14540
+    $7540 deposited
+    $7000 deposited
+500 Index Fund: $0
+Capital Value Fund: $54
+    $54 deposited
+Growth Equity Fund: $15053
+    $7542 deposited
+    $7576 deposited
+    $65 withdrawn
+Growth Index Fund: $10931
+    $5442 deposited
+    $6543 deposited
+    $1000 withdrawn
+    $54 withdrawn
+    ERROR: Tried to withdraw $20000 but there was not enough money in the fund
+Value Fund: $0
+Value Stock Index: $0
+Transaction history for Hank Williams 500 Index Fund: $10000
+    $10000 deposited
+Transaction history for Hank Williams by fund.
+Money Market: $10000
+    $10000 deposited
+Prime Money Market: $10000
+    $10000 deposited
+Long-Term Bond: $0
+    $10000 deposited
+    $10000 withdrawn from Long-Term Bond and $5000 withdrawn from Short-Term Bond to cover balance
+Short-Term Bond: $5000
+    $10000 deposited
+500 Index Fund: $10000
+    $10000 deposited
+Capital Value Fund: $10000
+    $10000 deposited
+Growth Equity Fund: $10000
+    $10000 deposited
+Growth Index Fund: $10000
+    $10000 deposited
+Value Fund: $10000
+    $10000 deposited
+Value Stock Index: $10000
+    $10000 deposited
+ERROR: One or both accounts not found.  Transfer refused.
+ERROR: Account 9876 is already open.  Transaction refused
+
+Processng Done. Final Balances
+Johnny Cash Account ID: 1001
+    Money Market: $470
+    Prime Money Market: $3042
+    Long-Term Bond: $10442
+    Short-Term Bond: $14540
+    500 Index Fund: $0
+    Capital Value Fund: $54
+    Growth Equity Fund: $15053
+    Growth Index Fund: $10931
+    Value Fund: $0
+    Value Stock Index: $0
+
+Hank Williams Account ID: 1253
+    Money Market: $10000
+    Prime Money Market: $10000
+    Long-Term Bond: $0
+    Short-Term Bond: $5000
+    500 Index Fund: $10000
+    Capital Value Fund: $10000
+    Growth Equity Fund: $10000
+    Growth Index Fund: $10000
+    Value Fund: $10000
+    Value Stock Index: $10000
+
+Willie Nelson Account ID: 9876
+    Money Market: $0
+    Prime Money Market: $0
+    Long-Term Bond: $0
+    Short-Term Bond: $0
+    500 Index Fund: $0
+    Capital Value Fund: $0
+    Growth Equity Fund: $0
+    Growth Index Fund: $0
+    Value Fund: $0
+    Value Stock Index: $0
+
